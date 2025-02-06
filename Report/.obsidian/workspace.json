@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "44543777a5934e7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0b22f6841939872",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cc8582c1d36f0e0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "No12Owenthilakoun.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "No12Owenthilakoun"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6355330a36a9bb43",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd047230537003ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acd3a220a16c65dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "010256bc2cde643e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "490831ada4c1f892",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4e89fdc27c31759d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b6d2ecf04ce0a93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09a5d72c9a44343b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "No12Owenthilakoun.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for No12Owenthilakoun"
+            }
+          },
+          {
+            "id": "b97e71617ad3607c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "No12Owenthilakoun.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from No12Owenthilakoun"
+            }
+          },
+          {
+            "id": "3a3ffdf632bb5dad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "71a2c4d4618e7cdf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "No12Owenthilakoun.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of No12Owenthilakoun"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0cc8582c1d36f0e0",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "No12Owenthilakoun.pdf"
+  ]
+}
